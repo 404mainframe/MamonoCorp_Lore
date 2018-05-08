@@ -1,0 +1,11 @@
+Individual species profiles should be organized by category and subcategory, following similar hierarchies to the following
+Undead/Vampiric/Minor Vampire
+Undead/Vampiric/Vampire
+Undead/Vampiric/Vampire Spawn (Revenant)
+Undead/Vampiric/Vampyre (Elder Vampire)
+Undead/Vampiric/Dhampir
+Undead/Spectral/Phantom
+Synthetic/Golem
+Synthetic/AI
+Synthetic/Automaton
+Synthetic/Living Doll
