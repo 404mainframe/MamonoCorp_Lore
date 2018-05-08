@@ -14,7 +14,7 @@ Archives of the threads this repository was spawned from:
 
 
 Navigation/Index:
-News Archive: Archived news stories
-Organization Profiles: Profiles and lore for the various organizations
-Species Profiles: Profiles of the various species of Mamono in the world
+* News Archive: Archived news stories
+* Organization Profiles: Profiles and lore for the various organizations
+* Species Profiles: Profiles of the various species of Mamono in the world
 
