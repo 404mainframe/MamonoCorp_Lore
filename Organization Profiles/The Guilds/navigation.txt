@@ -1,0 +1,7 @@
+Individual files should contain details on each Guild:
+
+Membership
+Ideologies
+Influences
+Regions of Activity
+Interactions with others
