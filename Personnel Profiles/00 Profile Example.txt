@@ -1,7 +1,7 @@
 Format for character detail pages:
 
-Given name, full name (all relevant)
-Race, age (as known)
+Given name, full name (all forms relevant at time)
+Race, age (if known)
 Standout appearance traits: general statements rather than detail, mostly used in cases where characters aren't identified by name
 Affiliations - Organizations (association, membership, employment, etc.; particularly current/past ties to Mamonocorp as relevant)
 Affiliations - Interpersonal (family, friends, allies, rivals, enemies)
