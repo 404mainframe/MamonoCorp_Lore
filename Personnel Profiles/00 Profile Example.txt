@@ -1,0 +1,12 @@
+Format for character detail pages:
+
+Given name, full name (all relevant)
+Race, age
+Standout appearance traits: general statements rather than detail, mostly used in cases where characters aren't identified by name
+Affiliations - Organizations (association, membership, employment, etc.; particularly current/past ties to Mamonocorp as relevant)
+Affiliations - Interpersonal (family, friends, allies, rivals, enemies)
+Involvement in recent events (include important bits from thread archives), reputations
+Ideological base (include philosophy gained from affiliations as relevant)
+General way of dealing with life (usual responses to events; habits; "speech" patterns)
+Simple History: impactful events over course of life determining outlook and ideology (summarized)
+Capabilities (physical strengths, mental resists, intellectual understandings, magical talents)
