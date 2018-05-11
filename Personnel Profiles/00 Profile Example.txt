@@ -10,3 +10,5 @@ Ideological base (include philosophy gained from affiliations as relevant)
 General way of dealing with life (usual responses to events; habits; "speech" patterns)
 Simple History: impactful events over course of life determining outlook and ideology (summarized)
 Capabilities (physical strengths, mental resists, intellectual understandings, magical talents)
+
+Missing information can be located by searching for "[PLACEHOLDER" with requested details in accompanying brackets.
