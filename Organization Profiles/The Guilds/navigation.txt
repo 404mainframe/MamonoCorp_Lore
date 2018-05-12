@@ -1,4 +1,4 @@
-Individual files should contain details on each Guild:
+Individual directories should contain details on each Guild:
 
 Membership
 Ideologies
