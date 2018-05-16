@@ -11,7 +11,7 @@ Archives of the threads this repository was spawned from:
 * [Thread 7: Making History](http://archive.is/2CUqK)
 * [Thread 8: Stranger and Stranger](http://archive.is/Ck9ep)
 * [Thread 9: Visitors from Heavens](http://archive.is/PiQ1a)
-
+* [Thread 9B: Cancelling the Apocalypse](https://8ch.net/human/res/70.html)
 
 Navigation/Index:
 * News Archive: Archived news stories
