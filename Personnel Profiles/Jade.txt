@@ -1,5 +1,5 @@
 Jade ( [PLACEHOLDER, Details needed] )
-Human Male, Age 30
+Human Male, Age [PLACHOLDER, Details needed]
 Physical build midway between Paladin and scholar, usually in office attire, occasionally Wizard robes
 
 Affiliations - Organizations:
